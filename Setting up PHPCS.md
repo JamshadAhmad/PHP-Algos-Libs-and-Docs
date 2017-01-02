@@ -17,7 +17,7 @@ it should be at /usr/bin/phpcs , make it sure by running
 PHPStorm-> File -> Settings -> Search [sniffer]
 
 Click on "Code Sniffer", 
-select configuration "By default project interpreter"
+There will be "By default project interpreter", select your installed phpcs and choose its name, it will be "local" by default. Click apply.
 
 
 ###3) Enable 
