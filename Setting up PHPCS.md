@@ -1,6 +1,6 @@
-##Setting up PHPCS (CodeSniffer) in PhpStorm
+## Setting up PHPCS (CodeSniffer) in PhpStorm
 
-###1) Install
+### 1) Install
 
 `sudo pear install PHP_CodeSniffer`
 
@@ -13,14 +13,14 @@ it should be at /usr/bin/phpcs , make it sure by running
 `which phpcs`
 
 
-###2) Configure 
+### 2) Configure 
 PHPStorm-> File -> Settings -> Search [sniffer]
 
 Click on "Code Sniffer", 
 There will be "By default project interpreter", select your installed phpcs and choose its name, it will be "local" by default. Click apply.
 
 
-###3) Enable 
+### 3) Enable 
 Again in same search result
 Click on Editor > Inspections
 
